@@ -13,3 +13,6 @@ Each article is displayed in the following format:
 
 ```text
 Article "ARTICLE TITLE" (Page ID PAGEID) was created at MONTH DAY, YEAR.
+How to run
+
+Open the HTML file in a browser.
